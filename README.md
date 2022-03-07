@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < The program draws 3 seperate programs for drawing sine, cosine, and tangent curves. These functions each iterate over each degree of the curve and makes the turtle draw that curve. The setupWindow and setupAxis functions adjust the area that the turtle draws in and creates an axis >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < None >
 
 ## REFERENCES:
- < List any outside resources used >
+ < imported math and turtle modules >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < None >
